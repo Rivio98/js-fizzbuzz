@@ -6,13 +6,13 @@ Consigli del giorno:
 Scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 Proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano".
 
-1. Inizializzo un form che stampa numeri da 1 a 100 compreso 
+1. Inizializzo un for che stampa numeri da 1 a 100 compreso 
 
-2. Stampo i numeri da 1 a 100 compreso con il form e li faccio restituire alla console con un log
+2. Stampo i numeri da 1 a 100 compreso con il for e li faccio restituire alla console con un log
 
-3. dentro al form aggiungo:
--se un numero diviso 3 e 5 ha come resto un numero pari allora ridai FizzBuzz come valore
+3. dentro al for aggiungo:
+-se un numero diviso 3 e 5 ha come resto un numero 0 allora ridai FizzBuzz come valore
    -altrimenti se solo per 3 ridai Fizz come valore
-   -altrimenti se solo per 5 ridai buzz come valore
+   -altrimenti solo per 5 ridai buzz come valore
 
 
